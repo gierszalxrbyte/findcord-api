@@ -5,7 +5,7 @@
 findcord is a discord scraping service that has bots joining public discord servers and listening for public events such as messages, bans and voice chat joins and leaves and enterprise usage without your permission.
 </div>
 
-## Credits!
+## API & Findcord Leak!
 
 - `id.json` - An account that gathers our information via an API request. (If you block the account, findcord won't be able to find you.)
 - `servers.json` - Since the server lists followed by findcord are compiled with information from its own server, a big thanks to jarvenox.
