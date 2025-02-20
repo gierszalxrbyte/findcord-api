@@ -2,7 +2,7 @@
 
 # [findcord.com Info]
  
-findcord.com, genel discord sunucularına katılan ve mesajlar, yasaklar ve sesli sohbete katılma ve ayrılma gibi genel olayları dinleyen ve daha sonra bunları izniniz olmadan kişisel veya kurumsal kullanım için satan botlara sahip bir discord kazıma hizmetidir.
+findcord.com, genel discord sunucularına katılan ve mesajlar, yasaklar ve sesli sohbete katılma ve ayrılma gibi genel olayları dinleyen ve daha sonra bunları izniniz olmadan kişisel veya kurumsal kullanıma olanak sağlayan bir discord veri kazım hizmetidir.
 
 </div>
 
