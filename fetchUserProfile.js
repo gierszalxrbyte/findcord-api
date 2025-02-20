@@ -1,4 +1,5 @@
-// shitcord leak?
+// mutual_guilds api for selfbot
+
 const axios = require('axios');
 
 const fetchUserProfile = async (userId, headers) => {
