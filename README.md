@@ -1,4 +1,5 @@
 # findcord selfbot accounts info and servers list!
 
-# - bot-servers-info.txt
-
+shitcord?
+-- selfbot acc info
+-- which servers the selfbot is on
