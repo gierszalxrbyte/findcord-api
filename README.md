@@ -9,6 +9,6 @@ findcord.com, genel discord sunucularına katılan ve mesajlar, yasaklar ve sesl
 ## Credits
 
 - `id.json` - bilgilerimizi api isteği ile toplayan hesap.  **(eğer hesabı engellerseniz findcord sizi bulamaz.)**
-- `servers.json` - findcord tarafından takip edilen sunucu listelerini kendi sunucusundan gelen bilgilye bize derlediği için jarvenox'a büyük teşekkürler.
+- `servers.json` - findcord tarafından takip edilen sunucu listelerini kendi sunucusundan gelen bilgiyle bize derlediği için jarvenox'a büyük teşekkürler.
   
 
