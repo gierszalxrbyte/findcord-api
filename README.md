@@ -8,12 +8,7 @@ findcord.com, genel discord sunucularına katılan ve mesajlar, yasaklar ve sesl
 
 ## Credits
 
-- data/ids.json - originally found by [kickthespy.pet](https://kickthespy.pet) using an API vulnerability.
-- data/servers.json - big thanks to [youcoldyet](https://github.com/youcoldyet/spy-bot-serverlist) for scraping and compiling the giant lists of servers by Spy.pet.
-
-<div align="center">
-
-## ☕ [Support my work on Ko-Fi](https://ko-fi.com/thatsinewave)
-
-</div>
+- `id.json` - - orijinal olarak bvrke tarafından bulundu
+- `servers.json` - findcord tarafından takip edilen sunucu listelerini kendi sunucusundan gelen bilgilye bize derlediği için jarvenox'a büyük teşekkürler.
+  
 
